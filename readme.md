@@ -4,10 +4,11 @@
     * brew install aspell --with-lang=en
     * cp emacs.el ~/.emacs.d/personal/
     * cp prelude-modules.el ~/.emacs.d/prelude-modules.el
-    * install-theme - atom-dark, seti-theme
+    * package-install - atom-dark-theme, seti-theme
     * load-theme - seti
 # specific setup for golang
     * cd $GOPATH
     * go get -u github.com/nsf/gocode
     * go get golang.org/x/tools/cmd/oracle
+    * package-install - auto-complete
 
