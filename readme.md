@@ -11,4 +11,4 @@
     * go get -u github.com/nsf/gocode
     * go get golang.org/x/tools/cmd/oracle
     * package-install - auto-complete
-
+    * http://getgb.io/ - go get github.com/constabulary/gb/...
