@@ -12,3 +12,5 @@
     * go get golang.org/x/tools/cmd/oracle
     * package-install - auto-complete
     * http://getgb.io/ - go get github.com/constabulary/gb/...
+    * get gpm and install it, gb doesn't solve developing packages
+
