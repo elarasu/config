@@ -6,7 +6,10 @@
     * cp prelude-modules.el ~/.emacs.d/prelude-modules.el
     * package-install - atom-dark-theme, seti-theme
     * load-theme - seti
+# specific setup for python
+    * sudo pip install virtualenv
 # specific setup for golang
+    * apt-get install golang
     * cd $GOPATH
     * go get -u github.com/nsf/gocode
     * go get golang.org/x/tools/cmd/oracle
