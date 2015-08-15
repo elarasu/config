@@ -13,4 +13,5 @@
     * package-install - auto-complete
     * http://getgb.io/ - go get github.com/constabulary/gb/...
     * get gpm and install it, gb doesn't solve developing packages
+       * wget https://raw.githubusercontent.com/pote/gpm/v1.3.2/bin/gpm && chmod +x gpm && sudo mv gpm /usr/local/bin
 
